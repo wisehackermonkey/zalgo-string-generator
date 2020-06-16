@@ -1,6 +1,8 @@
 # zalgo-string-generator
  creates weird string example 
  
+ how the works
+ https://apps.timwhitlock.info/unicode/inspect?s=a%CC%A6%CC%BB%CC%99%CD%93%CD%87%CC%AE%CC%B1%CC%9C%CC%9C%CC%A6%CC%A0%CC%BB%CC%9F%CC%AC%CC%A3%CD%85%CC%9D%CD%85%CC%99%CC%9F%CC%AE%CD%96%CD%94%CD%8D%CD%95%CC%AD%CC%98%CD%9A%CC%B2%CC%AF%CC%AC%CD%8D%CD%8D%CC%96%CC%B0%CC%97%CC%97%CC%A3%CD%95%CC%B9%CC%A0%CC%9C%CC%B2%CC%A5%CC%A6%CC%98%CD%99%CC%98%CD%95%CC%B0%CC%96%CC%A0%CD%8D%CD%94%CD%88%CC%A4%CC%97%CC%9E%CD%95%CD%93%CC%A6%CC%A0%CC%9F%CD%94%CD%85%CD%89%CC%96%CC%BC%CD%8E%CC%A6%CD%99%CD%94%CC%AF%CC%9C%CC%A5%CC%9C%CD%85%CC%A6%CC%AC%CD%88%CC%B0%CD%94%CC%98%CD%8D%CD%96%CD%88%CC%B9%CC%AB%CC%98%CC%A9%CC%9D%CC%A6%CC%B3%CD%89%CC%AA%CC%AC%CC%99%CD%8D%CC%AD%CC%B1%CD%9A#block-U0300
  
  sites that crash when put weird string O̪̻̠̤̘̗͓̼͎̤̱̤̙̮̭̞̳̗̫̲̥̩̭̻̼̻̠̺̞͙̟̟͍̤̤̼͍̝̬͔̠͎̪̖̻̩͔̘̮̺̥̺̦̞̦̰̘͔̠͕̙̜̦̪̥̟͕̠͕̲̜̯͔̩̥̦͔̣̩̺̫̬̹̮̜̱̗͇͔̪̰͉̲̭͕̟͈̱͔ͅͅ
  ![](https://i.imgur.com/uWhvKvt.png)
