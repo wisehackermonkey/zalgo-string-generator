@@ -15,6 +15,10 @@
 ![](https://i.imgur.com/7V4FwPe.png)
 - [criagslist](https://sfbay.craigslist.org/search/?sort=rel&ordinal=1&ratio=3&clicked=0&query=a%CC%AC%CC%B9%CC%BC%CD%95%CC%A9%CC%B0%CC%A0%CC%9E%CD%89%CC%AA%CC%A3%CD%87%CC%B2%CC%9C%CC%AA%CC%B3%CC%97%CC%AF%CD%87%CC%9C%CD%89%CC%B9%CC%B3%CC%AB%CD%88%CD%99%CC%96%CC%BA%CC%A5%CD%8D%CC%A4%CC%B0%CC%9C%CC%BA%CC%BB%CC%B9%CC%B9%CC%98%CC%B1%CC%A4%CC%AD%CD%9A%CD%95%CD%87%CC%9E%CC%B3%CD%8E%CC%A5%CC%AE%CC%B9%CC%9C%CC%97%CC%9C%CC%9E%CC%B2%CC%B1%CC%B9%CC%9C%CC%AE%CD%99%CC%BC%CC%A5%CC%AD%CC%B0%CC%AA%CD%95%CC%B1%CC%A9%CC%A6%CD%93%CD%8E%CD%94%CC%BA%CC%AD%CD%88%CC%98%CC%99%CD%99%CC%9C%CC%A9%CD%85%CC%A3%CC%B3%CD%88%CD%96%CD%89%CC%A0%CC%AA%CD%89%CC%B2%CD%89%CD%8E%CC%A3%CC%B1%CC%A5%CC%AB%CC%BA%CC%B2%CC%AD%CC%9E%CC%A9&catAbb=sss)
 
+
+# Update
+### Looks like it also messes up microsofts awesome new 'windows terminal' a replacement for CMD
+![](https://i.postimg.cc/g0VSCmTj/screenshot-4.png)
 # todo
 - convert into class
 - upload to npm
